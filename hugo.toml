@@ -4,7 +4,7 @@ title = "Darkin"
 theme = "poison"
 
 [params]
-brand = "Darkin"
+brand = ""
 remote_brand_image = "https://github.com/JulienGrv.png"
 dark_mode = false
 front_page_content = ["posts"]
